@@ -1,10 +1,3 @@
-# Student Name: Oghara Efetobore Akpomedaye
-# Student ID = B1093078
-# Software for Digital Innovation 
-
-# Freedom of Information System
-## v1.0.0 - January 12, 2022
-
 **Program files:**
 - CovidFunctions.py
 - functions.py
